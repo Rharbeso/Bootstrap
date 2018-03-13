@@ -1,0 +1,46 @@
+.navbar{
+    background-color: crimson !important;
+}
+
+.monkey{
+    color: rgb(204, 204, 204) !important;
+}
+
+.navbar-brand{
+    color: rgb(204, 204, 204) !important;
+}
+
+.main{
+    height: auto;
+    width: 100%;
+    position: relative;
+    background-color: dodgerblue;
+}
+
+h1{
+    padding: 10px;
+    color: rgb(55, 21, 148);
+    width: 100%;
+    background-color: #fff;
+}
+
+.quote,
+.quote-author{
+    padding: 10px;
+    text-align: center;
+}
+
+.quote{
+    font-size: 24px;
+    color: rgb(55, 21, 148);
+}
+
+
+.quote-author{
+    font-size: 18px;
+    color: rgb(55, 21, 148);
+}
+/* 
+a.nav-item.nav-link {
+    color: red !important;
+} */
